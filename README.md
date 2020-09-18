@@ -4,7 +4,7 @@ Meu nome é Leonardo de Souza, digito de Fortaleza(CE), sou Analista e Desenvolv
 
 Sou entusiasta nessa área de tecnologia, gosto de aprender e evoluir minhas habilidades continuamente. Sempre estou em busca de aprender uma tecnologia nova.
 
-#### 📄 "Mantenha-se forte faça eles se perguntarem porque ainda está sorrindo" 👊
+#### 📄 "Mantenha-se forte faça eles se perguntarem por que ainda está sorrindo" 👊
 
 - 💻 Tecnologia da Informação;  
 - 📑 Análise e Desenvolvimento de Sistemas;  
