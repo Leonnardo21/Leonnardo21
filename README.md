@@ -1,7 +1,8 @@
 ### Olá! Eu sou o Leonardo de Souza
 
-Meu nome é Leonardo de Souza, digito de Fortaleza(CE), sou Analista e Desenvolvedor de Sistemas(Jr), que estuda programação desde 2019.
-Sou entusiasta nessa área de tecnologia, gosto de aprender e evoluir minhas habilidades continuamente. Sempre estou em busca de aprender uma tecnologia nova.
+Meu nome é Leonardo de Souza e sou de Fortaleza, CE. Sou Analista e Desenvolvedor de Sistemas Júnior e tenho estudado programação desde 2019.
+
+Sou apaixonado por tecnologia e estou sempre em busca de aprender e aprimorar minhas habilidades nessa área em constante evolução. Tenho um entusiasmo genuíno por novas tecnologias e estou constantemente empenhado em expandir meus conhecimentos.
 
 <div align="center">
   <a href="https://github.com/Leonnardo21">
